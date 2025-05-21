@@ -18,9 +18,9 @@ The following experiments were performed:
 
 - `notebook.ipynb` – Full pipeline, data processing, model building, training, and evaluation.
 - `report.pdf` – Summary of experiments, visualizations, and discussion.
-- `dataset/` – Raw pedestrian data (edges + nodes).
+- `data/` – Raw pedestrian data (edges + nodes).
 - `README.md` – This file.
-- `.gitignore` - Ignores datasets, model checkpoints, etc.
+- `.gitignore` - Ignores model checkpoints, etc.
 
 > **Note:** The dataset consists of only one scene (two small files), so it is included in this repository for reproducibility.
 
