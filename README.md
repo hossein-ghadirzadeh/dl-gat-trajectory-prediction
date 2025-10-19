@@ -51,7 +51,7 @@ Performance was measured using Mean Squared Error (MSE) and Root Mean Squared Er
 
 ## Author
 
-Arian Ghadirzadeh<br>
+Hossein Ghadirzadeh<br>
 Deep Learning Course (TDIS22) – Assignment 2<br>
 Jönköping University, School of Engineering (JTH)<br>
 April 2025
